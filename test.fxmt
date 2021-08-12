@@ -1,0 +1,21 @@
+-Title-
+--Subtitle--
+---Subsubtitle---
+
+a/pow2/addb/pow2/eqc/pow2
+
+>Header
+>>Subheader
+
+*A
+**B
+***C
+***D
+****E
+**F
+*G
+**H
+
+\font12 12\subpoint
+\font24 24\subpoint
+\font36 36\subpoint

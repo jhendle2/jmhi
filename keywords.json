@@ -1,0 +1,19 @@
+{
+  "keywords": {
+    "add" : "+",
+    "sub" : "-",
+    "mul" : "*",
+    "div" : "/",
+    "mod" : "%",
+    "eq" : "=",
+    "pow" : "^",
+    "num" : "#",
+    "undrln" : "_",
+    "col" : ":",
+    "semcol" : ";",
+    "dlr" : "$"
+  },
+  "misc": {
+    "bullets": ["*"]
+  }
+}
